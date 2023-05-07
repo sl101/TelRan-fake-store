@@ -1,0 +1,13 @@
+.footer_wrapper {
+	padding: 20px 0;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 50px;
+
+}
+
+.footer_wrapper p {
+	color: var(--white-color);
+}
