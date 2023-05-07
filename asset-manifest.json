@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TelRan-fake-store/static/css/main.b6c95275.css",
+    "main.js": "/TelRan-fake-store/static/js/main.e656fafe.js",
+    "static/media/12.jpg": "/TelRan-fake-store/static/media/12.0345c57dd25955562406.jpg",
+    "index.html": "/TelRan-fake-store/index.html",
+    "main.b6c95275.css.map": "/TelRan-fake-store/static/css/main.b6c95275.css.map",
+    "main.e656fafe.js.map": "/TelRan-fake-store/static/js/main.e656fafe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c95275.css",
+    "static/js/main.e656fafe.js"
+  ]
+}
